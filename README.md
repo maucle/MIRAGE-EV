@@ -1,6 +1,6 @@
 
 ## RRS Demonstration:
-[![](images/demo1.png)](videos/RRS_demo.gif)
+[![](videos/RRS_demo.png)](videos/RRS_demo.gif)
 
 ## Periscope Demonstartion:
-[![](images/demo2.png)](videos/Periscope_demo.gif)
+[![](images/Periscope_demo.png)](videos/Periscope_demo.gif)
