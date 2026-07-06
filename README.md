@@ -4,7 +4,7 @@
 
 ## RRS Static vs Motion:
 [![](videos/RRS_static.gif)](videos/RRS_static.gif)
-[![](videos/RRS_moving.gif)](videos/RRS_moving.gif)
+[![](videos/RRS_motion.gif)](videos/RRS_motion.gif)
 
 ## Periscope Demonstartion:
 [![](videos/Periscope_demo.gif)](videos/Periscope_demo.gif)
